@@ -1,0 +1,29 @@
+.vitrini{ float:left;}
+.vitrini .boxs{ margin:15px 0 0 180px;}
+.vitrini .box{ margin:15px; float: left; height: 500px; width: 300px;}
+.vitrini .box img{ border:6px solid #F0E173; box-shadow: 10px 10px 20px rgb(174, 177, 164); height: 400px; width: 300px;}   
+.vitrini .box ul{ list-style-type: none;}
+.vitrini .box ul li{ text-align: center; }
+
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
